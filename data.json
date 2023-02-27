@@ -1,6 +1,9 @@
 {
 	"versions": {
-		"you": "0.0.1 alpha"
+		"you": {
+			"v": "0.0.1 alpha",
+			"u": ""
+		}
 	},
 	"update_log": {
 		"0_0_1_alpha": [
